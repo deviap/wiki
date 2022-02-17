@@ -2,7 +2,7 @@
 title: API root
 description: 
 published: 1
-date: 2022-02-17T22:32:14.830Z
+date: 2022-02-17T22:42:27.203Z
 tags: api
 editor: markdown
 dateCreated: 2022-02-15T19:19:55.049Z
@@ -26,3 +26,4 @@ dateCreated: 2022-02-15T19:19:55.049Z
 [GuiRoot](/api/class/GuiRoot)
 [GuiText](/api/class/GuiText)
 [Block](/api/class/Block)
+[Light](/api/class/Light)
