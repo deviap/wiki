@@ -2,7 +2,7 @@
 title: API root
 description: 
 published: 1
-date: 2022-02-17T22:42:27.203Z
+date: 2022-02-22T22:10:23.425Z
 tags: api
 editor: markdown
 dateCreated: 2022-02-15T19:19:55.049Z
@@ -14,6 +14,7 @@ dateCreated: 2022-02-15T19:19:55.049Z
 [ResourceManager](/api/class/ResourceManager)
 [WindowManager](/api/class/WindowManager)
 [GraphicsManager](/api/class/GraphicsManager)
+[PhysicsManager](/api/class/PhysicsManager)
 
 # Other Classes
 
