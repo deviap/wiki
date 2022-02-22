@@ -2,7 +2,7 @@
 title: API root
 description: 
 published: 1
-date: 2022-02-22T22:16:31.027Z
+date: 2022-02-22T22:26:53.284Z
 tags: api
 editor: markdown
 dateCreated: 2022-02-15T19:19:55.049Z
@@ -19,13 +19,14 @@ dateCreated: 2022-02-15T19:19:55.049Z
 # Other Classes
 
 - [DeviapWindow](/api/class/DeviapWindow)
+	- [GraphicsWindow](/api/class/DeviapWindow)
 - [GraphicsCamera](/api/class/GraphicsCamera)
 - [Resource](/api/class/Resource)
 	- [GraphicsResource](/api/class/GraphicsResource)
-- [GraphicsWindow](/api/class/DeviapWindow)
-- [GuiFrame](/api/class/GuiFrame)
-- [GuiImage](/api/class/GuiImage)
-- [GuiRoot](/api/class/GuiRoot)
-- [GuiText](/api/class/GuiText)
+- [BaseGui](/api/class/BaseGui)
+	- [GuiFrame](/api/class/GuiFrame)
+		- [GuiImage](/api/class/GuiImage)
+		- [GuiText](/api/class/GuiText)
+	- [GuiRoot](/api/class/GuiRoot)
 - [Block](/api/class/Block)
 - [Light](/api/class/Light)
