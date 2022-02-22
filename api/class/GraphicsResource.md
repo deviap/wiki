@@ -2,11 +2,14 @@
 title: GraphicsResource
 description: An image that can be utilised within the engine
 published: 1
-date: 2022-02-15T21:00:16.415Z
+date: 2022-02-22T22:12:03.122Z
 tags: api, class
 editor: markdown
 dateCreated: 2022-02-15T21:00:13.141Z
 ---
+
+> Extends [Resource](/api/class/Resource)
+{.is-info}
 
 # Properties
 ## Ready
